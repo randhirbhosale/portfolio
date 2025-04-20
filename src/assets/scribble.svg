@@ -1,0 +1,4 @@
+<!-- src/assets/scribble.svg -->
+<svg viewBox="0 0 172 20" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 12c27-10 54-10 81 0s54 10 81 0" stroke="#facc15" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>
