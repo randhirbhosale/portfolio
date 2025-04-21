@@ -1,3 +1,52 @@
+# 🧑‍💻 Randhir Bhosale — Developer Portfolio
+
+Welcome to my personal developer portfolio built using **React** and **Tailwind CSS**, and deployed with **GitHub Pages**.
+
+🌐 **Live Demo:** [randhirbhosale.github.io/portfolio](https://randhirbhosale.github.io/portfolio)
+
+---
+
+## 🚀 About the Project
+
+This portfolio showcases my experience as a **Full Stack Software Engineer** and **Data Enthusiast**, including:
+
+- Professional experience with Go, Docker, Kubernetes, and AWS
+- Projects in Machine Learning and NLP
+- Microservices, REST/gRPC APIs, and cloud-native development
+- Strong backend architecture and data engineering focus
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide
+- **Deployment:** GitHub Pages
+- **Version Control:** Git, GitHub
+
+---
+
+## 📦 Getting Started Locally
+
+```bash
+git clone https://github.com/randhirbhosale/portfolio.git
+cd portfolio
+npm install
+npm start
+
+npm run build
+npm run deploy
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
